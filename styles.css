@@ -226,7 +226,7 @@ header{
     margin-top: 100px;
     height: 85vh;
     width: 100%;
-    background: url(/img/home-pic.webp);
+    background: url(img/home-pic.webp);
     
     background-size: cover;
    border-radius: 15px;
@@ -303,7 +303,7 @@ header{
     justify-content: space-between;
 }
 .container-exp .exper-box1{
-    background: url(/img/expr-1.webp);
+    background: url(img/expr-1.webp);
     height: 480px;
     width: 49%;
     border-radius: 15px;
@@ -311,7 +311,7 @@ header{
     background-size: cover;
 }
 .container-exp .exper-box2{
-    background: url(/img/expr-2.webp);
+    background: url(img/expr-2.webp);
     height: 480px;
     width: 49%;
     border-radius: 15px;
@@ -335,7 +335,7 @@ header{
     color: #000000;
 }
 .question{
-    background: url(/img/bg-pic.webp);
+    background: url(img/bg-pic.webp);
     background-size: cover;
    margin-left: -100px;
    margin-right: -100px;
